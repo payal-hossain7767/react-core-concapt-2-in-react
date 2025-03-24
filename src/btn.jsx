@@ -3,9 +3,9 @@ export default function BtnClickHandel() {
     function HandleClick() {
         alert('i m click')
     }
-    const handleMeclick2 = () => {
-        alert('click')
-    }
+    // const handleMeclick2 = () => {
+    //     alert('click')
+    // }
     const HandleClick4 = (num, num2) => {
         const newNumber = num + num2;
         const newNumber2 = num * num2;
